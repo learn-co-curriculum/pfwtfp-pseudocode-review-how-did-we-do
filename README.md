@@ -1,16 +1,27 @@
-# Title
+# Pseudocode Demonstration: How'd We Do?
 
 ## Learning Goals
 
-- SWBAT 1
-- SWBAT 2
+- Assess a Developer's Pseudocode
 
 ## Introduction
 
-### SWBAT 1
+According to the Flatiron Process, when you finish writing the pseudocode,
+you should move to "Step 6: Verify the procedure's output." Verify that the
+pseudocode is correct.
 
-### SWBAT 2
+**Question 1**: What do you think about this pseudocode?
 
-## Conclusion
+[Text Area]
 
-## Resources
+**Question 2**: Do you think this pseudocode is correct?
+
+[Text Area]
+
+**Question 3**: If you don't think the pseudocode is correct, what do you think is wrong?
+
+[Text Area]
+
+**Question 4**: What was your process for verifying the correctness of the pseudocode?
+
+[Text Area]
